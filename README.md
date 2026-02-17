@@ -278,4 +278,4 @@ Algorithms process data.
 Together they improve performance and efficiency.
 """
 
-print("\n END OF ASSIGNMENT ")
+print("\n=END OF ASSIGNMENT ")
